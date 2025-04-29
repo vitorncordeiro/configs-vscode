@@ -17,4 +17,5 @@
     },
     "code-runner.ignoreSelection": true,
     "python.defaultInterpreterPath": "python"
+    "editor.rulers": [120]
 }
