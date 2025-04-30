@@ -16,7 +16,7 @@
         "python": "python -u",
     },
     "code-runner.ignoreSelection": true,
-    "python.defaultInterpreterPath": "python"
+    "python.defaultInterpreterPath": "python",
     "editor.rulers": [120],
     "editor.fontSize": 16
 }
